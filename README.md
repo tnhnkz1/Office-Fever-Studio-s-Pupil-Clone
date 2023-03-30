@@ -4,13 +4,13 @@
  
  I would like to mention that my intention of publishing my clone is not to harm the producers and publishers of this game, on the contrary, my intention is totally based on widening my portfolio and educational purposes to show and publish my skills and the projects I have cloned to everyone as a junior game developer. I wanted have an Arcade Idle game clone in my portfolio.
  
- The gameplay video is here. It is two minutes. Sorry about that. 
+ The gameplay video is here. It is two minutes. Sorry about that. I wanted to show everything. 
  
  I would like to mention that only the scripts containing the names ''WorkDeskManager" - "UnlockDesk" - "Printer" - "PlayerManager" - "PlayerMovement" - "CameraFollow" and "ButtonsManager" are actively used in the game. The rest has been used, however, I have decided not to use them later because I wanted to change the feeling of the game to make it more like the original games that I have cloned. 
  
  The reason I call this clone "mixed of two games" is that both games resemble to each other and I wanted to combine them to improve my skills. To be honest, it was not my best, I did not give my all because I only focused on the Arcade Idle genre and its mechanics and fundamentals. So, when I saw that I was able to do the basics of the Arcade Idle genre such as stack mechanic, feeling, character controller etc., I knew that I could have made it better and fully functioning, however, I did not on purpose. I said to myself that it had been enough for me.
  
- Forgot to mention that I was not able to use Unity Remote 5. I do not know why but it sure that I has forced me to record the gameplay using device simulator in Unity. That is why I could not use my phone. For some reason I do not know, Unity did not let me to use my phone. I mean that Unity was not able to detect my phone.
+ Forgot to mention that I was not able to use Unity Remote 5. I do not know why but it is sure that I has forced me to record the gameplay using device simulator in Unity. That is why I could not use my phone. For some reason I do not know, Unity did not let me to use my phone. I mean that Unity was not able to detect my phone.
  
  Last things last, thank you for reading, thank you for your time, whole lotta respect. 
  
