@@ -10,9 +10,9 @@
  
  The reason I call this clone "mixed of two games" is that both games resemble to each other and I wanted to combine them to improve my skills. To be honest, it was not my best, I did not give my all because I only focused on the Arcade Idle genre and its mechanics and fundamentals. So, when I saw that I was able to do the basics of the Arcade Idle genre such as stack mechanic, feeling, character controller etc., I knew that I could have made it better and fully functioning, however, I did not on purpose. I said to myself that it had been enough for me.
  
+ Forgot to mention that I was not able to use Unity Remote 5. I do not know why but it sure that I has forced me to record the gameplay using device simulator in Unity. That is why I could not use my phone. For some reason I do not know, Unity did not let me to use my phone. I mean that Unity was not able to detect my phone.
+ 
  Last things last, thank you for reading, thank you for your time, whole lotta respect. 
  
-
-
 https://user-images.githubusercontent.com/101358073/228986808-d4faee12-33c1-4e6c-a0de-036ff9e35305.mp4
 
